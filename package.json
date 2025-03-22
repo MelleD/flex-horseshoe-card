@@ -1,0 +1,19 @@
+{
+  "name": "flex-horseshoe-card",
+  "version": "1.0.0",
+  "main": "flex-horseshoe-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lit-element": "^4.1.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
