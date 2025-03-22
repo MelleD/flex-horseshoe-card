@@ -1,13 +1,22 @@
-**Personal Note, april 2023**
+# Flexible horseshoe for HomeAssistant
 
-Getting up to speed again with my custom cards after some difficult years!
+[![release][release-badge]][release-url]
+![downloads][downloads-badge]
+![build][build-badge]
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MelleD_lovelace-expander-card&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MelleD_lovelace-expander-card)
+[![PayPal.Me][paypal-me-badge]][paypal-me-url]
+[![BuyMeCoffee][buy-me-a-coffee-shield]][buy-me-a-coffee-url]
 
-First commit is compatibility for Home Assistant 2023.4. I missed that one in my testcard view. For some reason I fixed the HA version to some 2023.3 version in my docker compose file. And in that case you can `docker compose pull` but nothing is updated...
-***
+## Introduction
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AmoebeLabs/flex-horseshoe-card?style=for-the-badge)
-![GitHub Release Date](https://img.shields.io/github/release-date/AmoebeLabs/flex-horseshoe-card?style=for-the-badge)
+First a few words to start with. A big thank you goes to @AmoebeLabs
+ (https://github.com/AmoebeLabs/flex-horseshoe-card), who initially launched the card. I forked this card for my own HomeAssistant. I give no guarantee for the functionality and no promise of lifelong maintenance, as I do the whole thing in my free time. Of course, I am happy about every contribution and PR.
+
+Thank you so much @AmoebeLabs for this awesome card. I really enjoy using it myself, but I have nothing to do with its development. My contribution is to try to continue making it available in HA.
+
+However, I don't have time to fix features or bugs, as I'm ultimately doing a rebundle.
+
+If that's okay with you, you've come to the right place.
 
 # ![](https://tweakers.net/ext/f/D4Fx1OKp6s7Hb21Wzq9JWCJb/full.png) Flexible Horseshoe Card
 Flexible looks-like-a-horseshoe card for [Home Assistant](https://github.com/home-assistant/home-assistant) Lovelace UI
