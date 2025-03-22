@@ -119,7 +119,7 @@ Flex-horseshoe-card is not available in [HACS][hacs] (Home Assistant Community S
 
   ```yaml
   resources:
-  - url: /community_plugin/flex-horseshoe-card/flex-horseshoe-card.js
+  - url: /hacsfiles/flex-horseshoe-card/flex-horseshoe-card.js
     type: module
   ```
 # ![](https://tweakers.net/ext/f/D4Fx1OKp6s7Hb21Wzq9JWCJb/full.png) Using the card
