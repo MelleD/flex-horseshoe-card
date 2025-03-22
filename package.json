@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "flex-horseshoe-card.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rollup -c"
   },
   "keywords": [],
   "author": "",
