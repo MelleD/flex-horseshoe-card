@@ -100,7 +100,15 @@ Combined with animations and states, you can alter the appearance of objects. Th
 # ![](https://tweakers.net/ext/f/D4Fx1OKp6s7Hb21Wzq9JWCJb/full.png) Install
 
 ## Install via HACS
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+
+Flex-horseshoe-card is not available in [HACS][hacs] (Home Assistant Community Store) by default, but you can add it as custom repositories.
+
+1. Install HACS if you don't have it already
+2. Open HACS in Home Assistant 
+3. Add this repository (https://github.com/MelleD/flex-horseshoe-card) via HACS Custom repositories ([How to add Custom Repositories](https://hacs.xyz/docs/faq/custom_repositories/))
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=MelleD&repository=flex-horseshoe-card&category=plugin)
+
 
 ## Manual install
 
@@ -892,3 +900,22 @@ The making of this card wouldn't be possible without an incredible number of res
 ## Personal Note
 Many, many, many years ago in the last century I learned to code C and Pascal. To make this card I had to learn the basics of a lot of new things like Javascript, HTML, CSS and the lit-element web component.
 The above resources where invaluable to accomplish this.
+
+
+<!-- Badges -->
+
+[hacs-badge]: https://img.shields.io/badge/hacs-default-orange.svg?style=flat-square
+[release-badge]: https://img.shields.io/github/v/release/MelleD/flex-horseshoe-card?style=flat-square
+[downloads-badge]: https://img.shields.io/github/downloads/MelleD/flex-horseshoe-card/total?style=flat-square
+[build-badge]: https://img.shields.io/github/actions/workflow/status/MelleD/flex-horseshoe-card/build.yml?branch=main&style=flat-square
+[paypal-me-badge]: https://img.shields.io/static/v1.svg?label=%20&message=PayPal.Me&logo=paypal
+[buy-me-a-coffee-shield]: https://img.shields.io/static/v1.svg?label=%20&message=Buy%20me%20a%20coffee&color=6f4e37&logo=buy%20me%20a%20coffee&logoColor=white
+
+<!-- References -->
+
+[hacs-url]: https://github.com/hacs/integration
+[home-assistant]: https://www.home-assistant.io/
+[hacs]: https://hacs.xyz
+[release-url]: https://github.com/MelleD/flex-horseshoe-card/releases
+[paypal-me-url]: https://www.paypal.me/MelleDennis
+[buy-me-a-coffee-url]: https://www.buymeacoffee.com/melled
