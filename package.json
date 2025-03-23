@@ -5,6 +5,7 @@
   "scripts": {
     "build": "rollup -c"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "MIT",
@@ -14,6 +15,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^16.0.1",
-    "@rollup/plugin-terser": "^0.4.0"
+    "@rollup/plugin-terser": "^0.4.0",
+    "rollup": "^4.37.0"
   }
 }
