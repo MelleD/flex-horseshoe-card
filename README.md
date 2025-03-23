@@ -3,7 +3,7 @@
 [![release][release-badge]][release-url]
 ![downloads][downloads-badge]
 ![build][build-badge]
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MelleD_lovelace-expander-card&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MelleD_lovelace-expander-card)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MelleD_flex-horseshoe-card&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MelleD_flex-horseshoe-card)
 [![PayPal.Me][paypal-me-badge]][paypal-me-url]
 [![BuyMeCoffee][buy-me-a-coffee-shield]][buy-me-a-coffee-url]
 
