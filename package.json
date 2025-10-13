@@ -14,7 +14,7 @@
     "lit-element": "^4.2.1"
   },
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^16.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.3",
     "@rollup/plugin-terser": "^0.4.4",
     "rollup": "^4.52.4"
   }
